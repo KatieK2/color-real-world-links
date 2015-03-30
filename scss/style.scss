@@ -56,6 +56,7 @@ div.flex-wrapper {
 nav {
   font-size: 85%;
   padding: .5rem;
+  background-image: url("crisp-paper-ruffles.png");
   background-color: mix(complement($color), black, 75%);
   overflow: auto;
   border-right: solid mix($color, black, 25%) thick;
