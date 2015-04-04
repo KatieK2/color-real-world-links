@@ -24,7 +24,8 @@ $color: #FF5F00;
 
 body {
   color: mix($color, black, 25%);
-  background-color: mix($color, white, 15%);
+  background-color: mix($color, white, 30%);
+  background-image: url(fresh-snow.png);
   font: 16px/1.6em "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -100,7 +101,8 @@ nav ul {
 }
 nav li {
   float: left;
-  background-color: mix($color, white, 15%);
+  background-color: mix($color, white, 30%);
+  background-image: url(fresh-snow.png);
   border: solid 1px mix($color, black, 25%);
   margin: 0.5rem;
   padding: 0.5rem;
